@@ -2,9 +2,9 @@
 **Note:**
 I worked with Aman Gill for this challenge. We followed pair-programming methodology and the code and readme were co-created.
 
-#PyCitySchools School Performance Analysis
+# **PyCitySchools School Performance Analysis**
 
-##Project Overview
+## **Project Overview**
 
 We are performing School performance audit for a school Board. The following tasks need to be performed:
 
@@ -21,12 +21,14 @@ We are performing School performance audit for a school Board. The following tas
 **Data Source:** schools_complete.csv, students_complete.csv
 **Software:** Python 3.9.7, Pandas library, NumPy library, jupyter notebook
 
-##Results
+## **Results**
 
 Following is the summary of different types of analysis that was performed after replacing Thomas High School’s Math and Reading scores.
 
 - District summary
     Following data summary shows the results of the analysis, District Summary.png
+    ![PyPoll- Termial results](https://github.com/pnimma01/Python/blob/0ef1bfcc5a373788e173c89fd8bebcf484a7239f/Resources/Election_Results_Module3_Challenge.png)
+
 
 - School summary
     Per School Summary.png
