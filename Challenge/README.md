@@ -29,19 +29,37 @@ Following is the summary of different types of analysis that was performed after
     Following data summary shows the results of the analysis, District Summary.png
     ![District Summary](https://github.com/pnimma01/School_District_Analysis./blob/91c5855fd32aeff37ca14e3ae7309920b3123dbd/Challenge/Resources/District%20Summary.png)
 
+The summary data doesn't show any material change in the passing percentages after removing Thomas High School’s Math and Reading scores.
+
 
 - School summary
     Per School Summary.png
     ![Per School Summary](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Per%20School%20Summary.png)
 
+The summary data doesn't show any material change in the passing percentages after removing Thomas High School’s Math and Reading scores.
+
 - Math and reading scores by grade
     ![Scores by Grade](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Grade.png)
+
+The results stay intact compared to previous results.
 
 - Scores by school spending
     ![Scores by Spending](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Spending.png)
 
+The summary data doesn't show any material change in the passing percentages after removing Thomas High School’s Math and Reading scores.
+
+
 - Scores by school size
     ![Scores by Size](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Size.png)
 
+The summary data doesn't show any material change in the passing percentages after removing Thomas High School’s Math and Reading scores.
+
 - Scores by school type
     ![Scores by School Type](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Type.png)
+
+The summary data doesn't show any material change in the passing percentages after removing Thomas High School’s Math and Reading scores.
+
+### **Challenges encountered**
+
+1. The instructions were not very clear for the challenge. 
+2. The statement # Calculate the Average Scores using the "clean_student_data". Was used multiple times during the Objective 2 and it is not clear whether the statement is referring to a new data set or not.
