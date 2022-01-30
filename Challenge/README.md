@@ -32,17 +32,16 @@ Following is the summary of different types of analysis that was performed after
 
 - School summary
     Per School Summary.png
-
-- Thomas High School’s performance relative to the other schools
+    ![Per School Summary](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Per%20School%20Summary.png)
 
 - Math and reading scores by grade
-    Scores by Grade.png
+    ![Scores by Grade](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Grade.png)
 
 - Scores by school spending
-    Scores by Spending.png
+    ![Scores by Spending](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Spending.png)
 
 - Scores by school size
-    Scores by Size.png
+    ![Scores by Size](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Size.png)
 
 - Scores by school type
-    Scores by Type.png
+    ![Scores by School Type](https://github.com/pnimma01/School_District_Analysis./blob/14e32e7c8eab9b814ddcb076b38a9aaef55c57ef/Challenge/Resources/Scores%20by%20Type.png)
