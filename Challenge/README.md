@@ -27,7 +27,7 @@ Following is the summary of different types of analysis that was performed after
 
 - District summary
     Following data summary shows the results of the analysis, District Summary.png
-    ![PyPoll- Termial results](https://github.com/pnimma01/Python/blob/0ef1bfcc5a373788e173c89fd8bebcf484a7239f/Resources/Election_Results_Module3_Challenge.png)
+    ![District Summary](https://github.com/pnimma01/School_District_Analysis./blob/91c5855fd32aeff37ca14e3ae7309920b3123dbd/Challenge/Resources/District%20Summary.png)
 
 
 - School summary
